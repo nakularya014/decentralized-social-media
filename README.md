@@ -237,3 +237,4 @@ describe("Project - Decentralized Social Media", function () {
     });
   });
 });
+![Screenshot (1)](https://github.com/user-attachments/assets/53500735-9bc1-4253-a066-238c5ae84b68)
